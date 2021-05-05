@@ -1,5 +1,7 @@
 # Sol-Feace - X68000 - (Wolf-Team/1990)
 
+![Sol-Feace](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_titulo.PNG)
+
 A Wolf-Team foi uma das empresas mais fortes que desenvolviam jogos para o computador japônes Sharp X68000, dentre tantos jogos vamos falar 
 sobre o Sol-Feace um shooter horizontal, que também teve versões posteriores para Mega Drive e Sega-CD, talvez você deva conhecer este jogo por sua 
 versão do Mega Drive, mas convido você a conhecer a versão original além de mais polida ela tem uma grande vantagem até sobre o Sega-CD que é a 
@@ -41,6 +43,7 @@ Sua nave não sofre colisão com o cenário, neste caso é como se o cenário po
 
 O jogo possui um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
 
+_Confira o video no canal, clicando na imagem._
 <a href="https://youtu.be/fHHovNh2oBI" target="_blank">
   <img src="http://img.youtube.com/vi/fHHovNh2oBI/maxresdefault.jpg" alt="Sol-Feace - Sem Continue">
 </a>
