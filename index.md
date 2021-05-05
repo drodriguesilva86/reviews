@@ -1,6 +1,6 @@
 # Sol-Feace - X68000 - (Wolf-Team/1990)
 
-![Sol-Feace](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_titulo.PNG)
+![Sol-Feace](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_titulo_2.PNG)
 
 A Wolf-Team foi uma das empresas mais fortes que desenvolviam jogos para o computador japônes Sharp X68000, dentre tantos jogos vamos falar 
 sobre o Sol-Feace um shooter horizontal, que também teve versões posteriores para Mega Drive e Sega-CD, talvez você deva conhecer este jogo por sua 
