@@ -3,10 +3,8 @@
 ![Sol-Feace](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_titulo_2.PNG)
 
 A Wolf-Team foi uma das empresas mais fortes que desenvolviam jogos para o computador japônes Sharp X68000, dentre tantos jogos vamos falar 
-sobre o Sol-Feace um shooter horizontal, que também teve versões posteriores para Mega Drive e Sega-CD, talvez você deva conhecer este jogo por sua 
-versão do Mega Drive, mas convido você a conhecer a versão original além de mais polida ela tem uma grande vantagem até sobre o Sega-CD que é a 
-possibilidade de poder utilizar outros sintetizadores de som além do Yamaha presente no X68000. Um destes sintetizadores suportados é o da Roland-MT-32,
-dando uma experiência totalmente diferente daquela do Yamaha que tem um som mais cru e metalizado.
+sobre o Sol-Feace um shooter horizontal, que também teve versões posteriores para Mega Drive e Sega-CD (a maior motivação para eles era de que estes sistemas possuiam o mesmo processador que o do X68000), talvez você deva conhecer este jogo por sua 
+versão do Mega Drive, mas convido você a conhecer a versão original que apresenta sprites um pouco menores do que sua versão de mega e além disto, também tem uma grande vantagem até sobre o Sega-CD que é a possibilidade de se utilizar outros sintetizadores de som além do Yamaha presente no X68000. Um destes sintetizadores suportados é o da Roland-MT-32, dando uma experiência totalmente diferente daquela do Yamaha que tem um som mais metalizado.
 
 _Confira o video no canal, clicando na imagem._
 
@@ -39,9 +37,9 @@ Sua nave não sofre colisão com o cenário, neste caso é como se o cenário po
 
 ![Penúltimo chefe](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/penultimo_chefe.PNG)
 
-### Desafio
+### Conclusão
 
-O jogo possui um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
+O jogo possui uma bélissima trilha sonora composta por possui um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
 
 _Confira o video no canal, clicando na imagem._
 <a href="https://youtu.be/fHHovNh2oBI" target="_blank">
