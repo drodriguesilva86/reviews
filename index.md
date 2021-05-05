@@ -27,7 +27,7 @@ Neste outro caso o auxiliar vermelho é equipado na parte de cima, o qual prove 
 ![Nave após pegar o item auxiliar vermelho](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/depois_sol_feace_captura_item_cima_2.PNG)
 
 No total são 3 tipos de tiros auxiliares, que são representados como: amarelo que dobra o número de tiros, vermelho o qual representa o míssil e azul que é o tiro laser.
-Assim temos no total 3^3 = 27 configurações possíveis de auxiliares para a nave. Eu particularmente gosto da formação que você tem o tiro laser na frente e os misséis nas laterais, pois o laser segue linha reta e possue grande dano, a posição da frente da nave é a única que você não consegue mudar, já os laterais utilizo os misséis, pois a trajetória dele já é curva então é ótimo para acertar inimigos no solo principalmente, nesta configuração que fiz 1CC neste jogo, mas também já consegui fazer usando na parte de cima o auxiliar amarelo, na frente o laser e embaixo o míssil, nesta com maior dificuldade, na sexta fase vêm inimigos em diversas direções e que você precisa dar mais tiros para os matarem, nesta parte você pode acabar morrendo se não tiver um tiro mais potente.
+Assim temos no total 3^3 = 27 configurações possíveis de auxiliares para a nave. Eu particularmente gosto da formação que você tem o tiro laser na frente e os misséis nas laterais, pois o laser segue linha reta e possue grande dano, a posição da frente da nave é a única que você não consegue mudar, já os laterais utilizo os misséis, pois a trajetória dele já é curva então é ótimo para acertar inimigos no solo principalmente, nesta configuração que fiz 1CC neste jogo, mas também já consegui fazer usando na parte de cima o auxiliar amarelo, na frente o laser e embaixo o míssil, nesta com maior dificuldade, na terceira fase vêm inimigos em diversas direções e que você precisa dar mais tiros para os matarem, nesta parte você pode acabar morrendo se não tiver um tiro mais potente.
 
 ![Terceira Fase](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/terceira_fase.PNG)
 
@@ -41,7 +41,11 @@ Sua nave não sofre colisão com o cenário, neste caso é como se o cenário po
 
 ### Conclusão
 
-O jogo possui uma bélissima trilha sonora e apresenta um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
+O jogo possui uma bélissima trilha sonora e apresenta um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, principalmente a quinta fase e o chefe final da sexta fase. 
+
+![Chefe sexta fase](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sexta_fase.PNG)
+
+Que é o chefe que possui mais módulos em todo o jogo, o pior deles o laser amarelo que te persegue, então vá acumulando vidas, pois você poderá perder nesta parte, em suma sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
 
 _Confira o video no canal, clicando na imagem._
 
