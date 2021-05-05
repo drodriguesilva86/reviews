@@ -10,6 +10,8 @@ dando uma experiência totalmente diferente daquela do Yamaha que tem um som mai
   <img src="http://img.youtube.com/vi/ro2B6IZvejU/maxresdefault.jpg" alt="Emulação do Roland MT-32">
 </a>
 
+### Confira o video no canal, clicando na imagem.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
