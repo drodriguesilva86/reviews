@@ -42,6 +42,7 @@ Sua nave não sofre colisão com o cenário, neste caso é como se o cenário po
 O jogo possui uma bélissima trilha sonora e apresenta um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
 
 _Confira o video no canal, clicando na imagem._
+
 <a href="https://youtu.be/fHHovNh2oBI" target="_blank">
   <img src="http://img.youtube.com/vi/fHHovNh2oBI/maxresdefault.jpg" alt="Sol-Feace - Sem Continue">
 </a>
