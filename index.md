@@ -20,6 +20,12 @@ Quanto a jogabilidade algo bem diferente do Sol-Feace com relação a outros sho
 
 ![Nave após pegar o item auxiliar amarelo](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/depois_sol_feace_captura_item_frente_1.PNG)
 
+Neste outro caso o auxiliar vermelho é equipado na parte de cima, o qual prove o míssil.
+
+![Nave antes de pegar o item auxiliar vermelho](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_captura_item_cima_2.PNG)
+
+![Nave após pegar o item auxiliar vermelho](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/depois_sol_feace_captura_item_cima_2.PNG)
+
 ```markdown
 Syntax highlighted code block
 
