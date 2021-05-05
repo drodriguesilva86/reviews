@@ -31,7 +31,7 @@ Assim temos no total 3^3 = 27 configurações possíveis de auxiliares para a na
 
 Somente na quarta e quinta fase do jogo é possível utilizar a combustão da nave para dar dano nos inimigos, isto se torna estratégico principalmente na quinta fase que muitos inimigos iram vir por trás de você.
 
-Sua nave não sofre colisão com o cenário, neste caso é como se o cenário possuissem uma mola, pois quando você colide ela quica para o lado oposto ao sentido da colisão, o qual da na mesma que se o cenário colidisse com você, pois você na maior das vagas acaba sendo jogado na rota de colisão com um inimigo e morrendo, isto é evidente no penúltimo chefe do jogo que você esta num cenário bem claustrofóbico.
+Sua nave não sofre colisão com o cenário, neste caso é como se o cenário possuisse molas, pois quando você colide ela quica para o lado oposto ao sentido da colisão, o qual da na mesma que se o cenário colidisse com você, pois você na maior das vagas acaba sendo jogado na rota de colisão com um inimigo e morrendo, isto é evidente no penúltimo chefe do jogo que você esta num cenário bem claustrofóbico.
 
 ![Penúltimo chefe](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/penultimo_chefe.PNG)
 
