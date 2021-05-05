@@ -29,7 +29,7 @@ Neste outro caso o auxiliar vermelho é equipado na parte de cima, o qual prove 
 No total são 3 tipos de tiros auxiliares, que são representados como: amarelo que dobra o número de tiros, vermelho o qual representa o míssil e azul que é o tiro laser.
 Assim temos no total 3^3 = 27 configurações possíveis de auxiliares para a nave. Eu particularmente gosto da formação que você tem o tiro laser na frente e os misséis nas laterais, pois o laser segue linha reta e possue grande dano, a posição da frente da nave é a única que você não consegue mudar, já os laterais utilizo os misséis, pois a trajetória dele já é curva então é ótimo para acertar inimigos no solo principalmente, nesta configuração que fiz 1CC neste jogo, mas também já consegui fazer usando na parte de cima o auxiliar amarelo, na frente o laser e embaixo o míssil, nesta com maior dificuldade, na sexta fase vêm inimigos em diversas direções e que você precisa dar mais tiros para os matarem, nesta parte você pode acabar morrendo se não tiver um tiro mais potente.
 
-![Terceira Fase](terceira_fase.png)
+![Terceira Fase](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/terceira_fase.PNG)
 
 Somente na quarta e quinta fase do jogo é possível utilizar a combustão da nave para dar dano nos inimigos, isto se torna estratégico principalmente na quinta fase que muitos inimigos iram vir por trás de você.
 
