@@ -1,8 +1,12 @@
 # Sol-Feace - X68000 - (Wolf-Team/1990)
 
-You can use the [editor on GitHub](https://github.com/drodriguesilva86/reviews/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A Wolf-Team foi uma das empresas mais fortes que desenvolviam jogos para o computador japônes Sharp X68000, dentre tantos jogos vamos falar 
+sobre o Sol-Feace um shooter horizontal, que também teve versões posteriores para Mega Drive e Sega-CD, talvez você deva conhecer este jogo por sua 
+versão do Mega Drive, mas convido você a conhecer a versão original além de mais polida ela tem uma grande vantagem até sobre o Sega-CD que é a 
+possibilidade de poder utilizar outros sintetizadores de som além do Yamaha presente no X68000. Um destes sintetizadores suportados é o da Roland-MT-32,
+dando uma experiência totalmente diferente daquela do Yamaha que tem um som mais cru e metalizado, na da Roland existem mais canais de áudio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
