@@ -8,7 +8,7 @@ dando uma experiência totalmente diferente daquela do Yamaha que tem um som mai
 
 _Confira o video no canal, clicando na imagem._
 
-<a href="https://www.youtube.com/ro2B6IZvejU" target="_blank">
+<a href="https://www.youtube.com/watch?v=ro2B6IZvejU" target="_blank">
   <img src="http://img.youtube.com/vi/ro2B6IZvejU/maxresdefault.jpg" alt="Emulação do Roland MT-32">
 </a>
 
