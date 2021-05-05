@@ -41,11 +41,12 @@ Sua nave não sofre colisão com o cenário, neste caso é como se o cenário po
 
 ### Conclusão
 
-O jogo possui uma bélissima trilha sonora e apresenta um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, principalmente a quinta fase e o chefe final da sexta fase. 
+A única coisa que me incomodou neste jogo, foi sua colisão com o cenário, poderiam ter deixado a nave morrer ao colidir, tirando isto todo o restante é muito bem feito
+o jogo possui uma bélissima trilha sonora e apresenta, bons designs das fases e apresenta um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, toda vez que você morrer automaticamente virá um auxiliar para você, mas não é um shooter fácil não, principalmente a quinta fase e o chefe final da sexta fase. 
 
 ![Chefe sexta fase](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sexta_fase.PNG)
 
-Que é o chefe que possui mais módulos em todo o jogo, o pior deles o laser amarelo que te persegue, então vá acumulando vidas, pois você poderá perder nesta parte, em suma sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
+Que é o chefe que possui mais módulos em todo o jogo, o pior deles o laser amarelo que te persegue, então vá acumulando vidas, pois você poderá perder nesta parte, em suma sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida. 
 
 _Confira o video no canal, clicando na imagem._
 
