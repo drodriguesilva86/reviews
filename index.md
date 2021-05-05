@@ -12,9 +12,9 @@ _Confira o video no canal, clicando na imagem._
   <img src="http://img.youtube.com/vi/ro2B6IZvejU/maxresdefault.jpg" alt="Emulação do Roland MT-32">
 </a>
 
-### Jogabilidade e Diversão
+### Jogabilidade 
 
-Quanto a jogabilidade algo bem diferente do Sol-Feace com relação a outros shooters é de que vc pode escolher onde equipar suas armas auxiliares. A nave possui três caixas de colisão (cima, frente e baixo), ao tocar a caixa no item você equipa ele nesta parte. Conforme podemos ver na figura abaixo o auxiliar amarelo é equipado na parte da frente da nave.
+Quanto a jogabilidade algo bem diferente do Sol-Feace com relação a outros shooters é de que você pode escolher onde equipar suas armas auxiliares. A nave possui três caixas de colisão (cima, frente e baixo), ao tocar a caixa no item você equipa ele nesta parte. Conforme podemos ver na figura abaixo o auxiliar amarelo é equipado na parte da frente da nave.
 
 ![Nave antes de pegar o item auxiliar amarelo](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_captura_item_frente_1.PNG)
 
@@ -28,6 +28,12 @@ Neste outro caso o auxiliar vermelho é equipado na parte de cima, o qual prove 
 
 No total são 3 tipos de tiros auxiliares, que são representados como: amarelo que dobra o número de tiros, vermelho o qual representa o míssil e azul que é o tiro laser.
 Assim temos no total 3^3 = 27 configurações possíveis de auxiliares para a nave.
+
+Somente na quarta e quinta fase do jogo é possível utilizar a combustão da nave para dar dano nos inimigos, isto se torna estratégico principalmente na quinta fase que muitos inimigos iram vir por trás de você.
+
+Sua nave não sofre colisão com o cenário, neste caso é como se o cenário possuissem uma mola, pois quando você colide ela quica para o lado oposto ao sentido da colisão, o qual da na mesma que se o cenário colidisse com você, pois você na maior das vagas acaba sendo jogado na rota de colisão com um inimigo e morrendo, isto é evidente no penúltimo chefe do jogo que você esta num cenário bem claustrofóbico.
+
+![Penúltimo chefe](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/penultimo_chefe.PNG)
 
 ```markdown
 Syntax highlighted code block
