@@ -35,6 +35,14 @@ Sua nave não sofre colisão com o cenário, neste caso é como se o cenário po
 
 ![Penúltimo chefe](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/penultimo_chefe.PNG)
 
+### Desafio
+
+O jogo possui um desafio moderado, não chega no nível de dificuldade de um Gradius ou R-Type, mas não é um shooter fácil não, sabendo usar boas estratégias principalmente com o posicionamento dos auxiliares, vai facilitar sua vida.
+
+<a href="https://www.youtube.com/fHHovNh2oBI&t=439s" target="_blank">
+  <img src="http://img.youtube.com/vi/fHHovNh2oBI&t=439s/maxresdefault.jpg" alt="Emulação do Roland MT-32">
+</a>
+
 ```markdown
 Syntax highlighted code block
 
