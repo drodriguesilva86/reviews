@@ -4,9 +4,11 @@ A Wolf-Team foi uma das empresas mais fortes que desenvolviam jogos para o compu
 sobre o Sol-Feace um shooter horizontal, que também teve versões posteriores para Mega Drive e Sega-CD, talvez você deva conhecer este jogo por sua 
 versão do Mega Drive, mas convido você a conhecer a versão original além de mais polida ela tem uma grande vantagem até sobre o Sega-CD que é a 
 possibilidade de poder utilizar outros sintetizadores de som além do Yamaha presente no X68000. Um destes sintetizadores suportados é o da Roland-MT-32,
-dando uma experiência totalmente diferente daquela do Yamaha que tem um som mais cru e metalizado, na da Roland existem mais canais de áudio.
+dando uma experiência totalmente diferente daquela do Yamaha que tem um som mais cru e metalizado.
 
-
+<a href="https://www.youtube.com/watch?v=ro2B6IZvejU" target="_blank">
+  <img src="http://img.youtube.com/vi/watch?v=ro2B6IZvejU/maxresdefault.jpg" alt="Emulação do Roland MT-32">
+</a>
 
 ### Markdown
 
