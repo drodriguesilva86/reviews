@@ -12,9 +12,13 @@ _Confira o video no canal, clicando na imagem._
   <img src="http://img.youtube.com/vi/ro2B6IZvejU/maxresdefault.jpg" alt="Emulação do Roland MT-32">
 </a>
 
-### Markdown
+### Jogabilidade e Diversão
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Quanto a jogabilidade algo bem diferente do Sol-Feace com relação a outros shooters é de que vc pode escolher onde equipar suas armas auxiliares. A nave possui três caixas de colisão (cima, frente e baixo), ao tocar a caixa no item você equipa ele nesta parte. Conforme podemos ver na figura abaixo o auxiliar amarelo é equipado na parte da frente da nave.
+
+![Nave antes de pegar o item auxiliar amarelo](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/sol_feace_captura_item_frente_1.PNG)
+
+![Nave após pegar o item auxiliar amarelo](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/depois_sol_feace_captura_item_frente_1.PNG)
 
 ```markdown
 Syntax highlighted code block
