@@ -26,6 +26,9 @@ Neste outro caso o auxiliar vermelho é equipado na parte de cima, o qual prove 
 
 ![Nave após pegar o item auxiliar vermelho](https://raw.githubusercontent.com/drodriguesilva86/reviews/main/depois_sol_feace_captura_item_cima_2.PNG)
 
+No total são 3 tipos de tiros auxiliares, que são representados como: amarelo que dobra o número de tiros, vermelho o qual representa o míssil e azul que é o tiro laser.
+Assim temos no total 3^3 = 27 configurações possíveis de auxiliares para a nave.
+
 ```markdown
 Syntax highlighted code block
 
